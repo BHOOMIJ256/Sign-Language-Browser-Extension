@@ -42,7 +42,7 @@ This solution ensures that the deaf and hard-of-hearing community can seamlessly
 5️⃣ (Future) Speech-to-text API ensures instant transcription for better accuracy.
 
 <h2>Demo</h2>
-## 🎬 Demo Video  
+
 
 
 
