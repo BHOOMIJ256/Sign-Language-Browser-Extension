@@ -45,6 +45,7 @@ This solution ensures that the deaf and hard-of-hearing community can seamlessly
 
 ## 🎥 Demo Video  
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/your-username/sign-language-extension/blob/main/assets/demo.mp4)  
+## 🎬 Demo Video  
 
-🔗 Click on the image above to view the demo!
+🔗 [Click here to watch the demo]()
+
