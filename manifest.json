@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Sign Language Translator",
+  "version": "1.0",
+  "description": "A browser extension for real-time sign language translation of videos.",
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
+  "host_permissions": ["https://www.youtube.com/watch?*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/watch?*"],
+      "js": ["scripts/content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "scripts/background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["scripts/Videos/*"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_width":320,
+    "default_height":220
+  }
+}
