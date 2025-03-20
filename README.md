@@ -41,10 +41,15 @@ This solution ensures that the deaf and hard-of-hearing community can seamlessly
 
 5️⃣ (Future) Speech-to-text API ensures instant transcription for better accuracy.
 
+# Images 
+![image](https://github.com/user-attachments/assets/977467bc-1457-4ff2-be6d-37ac853290bc)
+
+
 <h2>Demo</h2>
 ## 🎬 Demo Video  
 
 🔗 [Click here to watch the demo](https://github.com/BHOOMIJ256/Sign-Language-Browser-Extension/blob/main/Demo.mp4)
+
 
 
 
