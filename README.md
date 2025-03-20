@@ -43,6 +43,8 @@ This solution ensures that the deaf and hard-of-hearing community can seamlessly
 
 # Images 
 ![image](https://github.com/user-attachments/assets/977467bc-1457-4ff2-be6d-37ac853290bc)
+![image](https://github.com/user-attachments/assets/ee55e329-fc5d-4310-bd7f-cb5142e96b09)
+
 
 
 <h2>Demo</h2>
