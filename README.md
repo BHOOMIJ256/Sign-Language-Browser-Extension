@@ -1,8 +1,10 @@
 <h1><b>Sign Language Browser Extension 🖥️👐</h1></b>
 
-🚀 Enhancing Digital Accessibility for the Deaf Community
+🚀 Enhancing Digital Accessibility for the Deaf Community . Project Template[Innovation For Inclusion_Sign Language Video Accessibility_Bhoomi Vinod Jain.pdf](https://github.com/user-attachments/files/20366391/Innovation.For.Inclusion_Sign.Language.Video.Accessibility_Bhoomi.Vinod.Jain.pdf)
+
 
 <h2>📌<b>Overview</h2></b>
+
 
 The Sign Language Browser Extension improves web video accessibility by providing real-time sign language interpretation using pre-recorded sign language videos. 
 This solution ensures that the deaf and hard-of-hearing community can seamlessly understand and engage with online video content.
